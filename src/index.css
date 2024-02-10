@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ *{
+  font-family: 'Inter', sans-serif;
+
+ }
+
+ h1{
+   font-family: 'Bruno Ace', sans-serif;
+ }
+
+ h2{
+   font-family: 'Alatsi', sans-serif;
+ }
+
+ 
+
+
+ 
